@@ -55,6 +55,9 @@ This repository contain the Degu baseboard circuit, BOM and reference of parts n
 接続されているケーブルの色が、基板のシルク印字に対して、赤：VIN，黒：GNDとなっていることを確認してください。
 極性が逆向きになっている場合には交換対応いたしますので、購入店までお問い合わせください。
 
+<a href="https://open-degu.com"><img src="images/con12_ok.png" alt="con12 ok image" width="300"></a>
+<a href="https://open-degu.com"><img src="images/con12_ng.png" alt="con12 ng image" width="300"></a>
+
 ### ① USB microBコネクタ経由での5V給電時
 
 |リファレンス番号|状態|
