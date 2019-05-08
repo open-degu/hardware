@@ -48,7 +48,7 @@ This repository contain the Degu baseboard circuit, BOM and reference of parts n
 -   ②JST 2pin PHコネクタ経由での3.3V～5.5V給電
 -   ③ JST 2pin PHコネクタ経由での3V給電(コイン電池等)
 
-## JST 2pin PHコネクタ経由で給電する祭の注意
+## JST 2pin PHコネクタ経由で給電する際の注意
 
 初回出荷品に関して、CON12 PHコネクタに接続されているケーブルの極性が
 逆向きになっている可能性があり、逆向きの状態で給電した場合、故障する可能性があります。
