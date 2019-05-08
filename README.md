@@ -54,7 +54,7 @@ This repository contain the Degu baseboard circuit, BOM and reference of parts n
 逆向きになっている可能性があり、逆向きの状態で給電した場合、故障する可能性があります。
 接続されているケーブルの色が、基板のシルク印字に対して、赤：VIN，黒：GNDとなっていることを確認してください。
 極性が逆向きになっている場合には交換対応いたしますので、購入店までお問い合わせください。
-なお、新品への交換となりますので、再度 DeguをAWS IoT Coreへの登録が必要になります。
+なお、新品への交換となりますので、再度 DeguをAWS IoT Coreへ登録する必要があります。
 
 <a href="https://open-degu.com"><img src="images/con12_ok.png" alt="con12 ok image" width="300"></a>
 <a href="https://open-degu.com"><img src="images/con12_ng.png" alt="con12 ng image" width="300"></a>
